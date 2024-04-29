@@ -21,7 +21,7 @@ export const Container = styled.aside<ContainerProps>`
 
     @media (max-width: 430px) {
         width: 330px;
-        height: 932px;
+        height: 812px;
     }
 
 `
